@@ -45,6 +45,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+graphemeClusters2iteratorRight = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-to-grapheme-cluster-iterator-right/tags). For example,
+
+```javascript
 graphemeClusters2iteratorRight = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@v0.0.1-umd/browser.js' )
 ```
 
@@ -57,7 +62,7 @@ var graphemeClusters2iteratorRight = require( 'path/to/vendor/umd/string-to-grap
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@v0.0.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -204,7 +209,7 @@ var count = ctx.count;
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@v0.0.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
