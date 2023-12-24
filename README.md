@@ -240,6 +240,13 @@ while ( true ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-to-iterator-right`][@stdlib/array/to-iterator-right]</span><span class="delimiter">: </span><span class="description">create an iterator from an array-like object, iterating from right to left.</span>
+-   <span class="package-name">[`@stdlib/string-to-grapheme-cluster-iterator`][@stdlib/string/to-grapheme-cluster-iterator]</span><span class="delimiter">: </span><span class="description">create an iterator which iterates over grapheme clusters.</span>
+
 </section>
 
 <!-- /.related -->
@@ -314,6 +321,14 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-to-grapheme-cluster-iterator-right/main/LICENSE
 
 [unicode-text-segmentation]: http://www.unicode.org/reports/tr29/
+
+<!-- <related-links> -->
+
+[@stdlib/array/to-iterator-right]: https://github.com/stdlib-js/array-to-iterator-right
+
+[@stdlib/string/to-grapheme-cluster-iterator]: https://github.com/stdlib-js/string-to-grapheme-cluster-iterator
+
+<!-- </related-links> -->
 
 </section>
 
