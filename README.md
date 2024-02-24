@@ -54,7 +54,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import graphemeClusters2iteratorRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@esm/index.mjs';
+import graphemeClusters2iteratorRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@v0.2.1-esm/index.mjs';
 ```
 
 #### graphemeClusters2iteratorRight( src\[, mapFcn\[, thisArg]] )
@@ -193,7 +193,7 @@ var count = ctx.count;
 <body>
 <script type="module">
 
-import graphemeClusters2iteratorRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@esm/index.mjs';
+import graphemeClusters2iteratorRight from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-to-grapheme-cluster-iterator-right@v0.2.1-esm/index.mjs';
 
 function repeat( str ) {
     return str + str;
